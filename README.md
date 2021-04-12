@@ -7,3 +7,11 @@ https://towardsdatascience.com/musical-genre-classification-with-convolutional-n
 https://neptune.ai/blog/google-colab-dealing-with-files
 https://neptune.ai/blog/google-colab-dealing-with-files
 https://neptune.ai/blog/google-colab-dealing-with-files
+## To Open the Notebook Online:
+### Option 1:
+Go to https://nbviewer.jupyter.org/
+In the search bar, paste the link of the github repo:https://github.com/carguelloM/Music-Genre-Classifier-PHY4905
+
+## Option 2:
+1.Download the notebook
+2.Upload the notebook in Google Colab
