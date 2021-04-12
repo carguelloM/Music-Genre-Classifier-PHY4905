@@ -13,5 +13,5 @@ https://neptune.ai/blog/google-colab-dealing-with-files
 <pre> 2.In the search bar, paste the link of the github repo:https://github.com/carguelloM/Music-Genre-Classifier-PHY4905 </pre>
 
 ## Option 2:
-1.Download the notebook
-2.Upload the notebook in Google Colab
+<pre> 1.Download the notebook </pre>
+<pre> 2.Upload the notebook in Google Colab </pre>
